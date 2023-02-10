@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-AlX
-echo "ALX School is so cool!"
-=======
-
-ALX
+#!/bin/bashX
 echo "ALX School"
->>>>>>> origin/update_script
